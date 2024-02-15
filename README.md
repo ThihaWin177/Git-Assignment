@@ -8,3 +8,4 @@ Git Installation and Create Branch
 2.Git Clone
 3.Create SSH
 4.Create branch
+5. Friend created branch and pull request
